@@ -1,0 +1,12 @@
+{
+  "category.cinemaopt.main": "Cinema Optimized Experience",
+
+  "key.cinema-opt.cinematic": "Toggle Cinematic Camera",
+  "key.cinema-opt.zoom": "Zoom (Hold)",
+  "key.cinema-opt.fullbright": "Toggle Fullbright",
+  "key.cinema-opt.coords": "Toggle Coordinates HUD",
+  "key.cinema-opt.fps": "Toggle FPS Counter",
+  "key.cinema-opt.sway": "Toggle Item Sway",
+
+  "mod.cinema-opt.title": "Cinema Optimized Experience"
+}
